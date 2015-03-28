@@ -1,0 +1,24 @@
+{
+  "name": "akoustos",
+  "version": "0.1.0",
+  "description": "Sound Visualization through 3D printing",
+  "keywords": [
+    "website"
+  ],
+  "authors": [
+    "soundwavebomb"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.1",
+    "fontawesome": "~4.2.0",
+    "modernizer": "~2.8.2"
+  }
+}
